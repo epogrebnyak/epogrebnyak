@@ -17,7 +17,7 @@ sustainable development goals.
 
 - Also published: dictionary of Russian business slang.
 
-### Python and stats
+### Economic data and Python codebooks
 
 I maintain two python packages for economic statistics:
 
@@ -26,7 +26,7 @@ I maintain two python packages for economic statistics:
 
 ### Functional programming
 
-- 7 lessons on Haskell and a reading list
+- 7 lessons on Haskell and a Haskell reading list
 - FP jargon (my Russian translation)
 
 ### Learning resources

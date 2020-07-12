@@ -6,7 +6,7 @@
 
 - Work:
   - current: [Finec MGIMO](https://finec.mgimo.ru) where we teach economics, management and business IT. 
-  - previous: [VEB](https://veb.ru/) development bank in strategy and economic research roles. 
+  - previous: [VEB](https://veb.ru/) development bank, strategy and economic research roles. 
 
 - PhD (Econ): modelling competitive electricity market. 
 
@@ -27,7 +27,7 @@ I maintain two python packages for economic statistics:
 - 7 lessons on Haskell and a Haskell reading list
 - FP jargon (my Russian translation)
 
-### Learning resources
+### Econometrics and dat management learning resources
 
 - trics.me
 - what-I-missed

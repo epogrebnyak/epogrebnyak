@@ -6,8 +6,7 @@
 
 [Dean](https://mgimo.ru/people/pogrebnyak) at [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
   
-Previous work: strategy (2008-2014) and economic research (2014-2018) at [VEB](https://veb.ru/) national development bank,
-economic policy research at [ICSS](https://icss.ru), analyst at [forecast.ru](http://www.forecast.ru/).
+Previously managing director at strategy department (2008-2014), deputy head of economic research department (2014-2018) at [VEB](https://veb.ru/) national development bank, head of economic policy research at [ICSS](https://icss.ru), analyst at [forecast.ru](http://www.forecast.ru/).
 
 ### Publications
 

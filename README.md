@@ -5,8 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-eeppoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeppoo/)](https://www.linkedin.com/in/eeppoo/) 
 
 [Dean](https://mgimo.ru/people/pogrebnyak) at [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
-  
-Previously managing director at strategy department, deputy head of economic research department at [VEB](https://veb.ru/), head of economic policy research at [ICSS](https://icss.ru), analyst at [forecast.ru](http://www.forecast.ru/).
+Previously worked at [VEB](https://veb.ru/), [ICSS](https://icss.ru) and [forecast.ru](http://www.forecast.ru/). 
 
 ### Publications
 

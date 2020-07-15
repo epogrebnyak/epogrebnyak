@@ -14,7 +14,9 @@ economic policy research at [ICSS](https://icss.ru), analyst at [forecast.ru](ht
 Power markets, economics of automotive industry, industrial and competition policies, exchange rates, 
 sustainable development goals.
 
+<!--
 Thesis (PhD Econ): [Policy parameters and regulatory controls for Russian competitive electricity market](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/) 
+-->
 
 Also published: dictionary of Russian business slang.
 

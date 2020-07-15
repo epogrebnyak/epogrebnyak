@@ -4,7 +4,7 @@
 [![MAIL Badge](https://img.shields.io/badge/-e.pogrebnyak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.pogrebnyak@gmail.com)](mailto:e.pogrebnyak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-eeppoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeppoo/)](https://www.linkedin.com/in/eeppoo/) 
 
-[Dean](https://mgimo.ru/people/pogrebnyak) at [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
+Dean at [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
 Previously worked at [VEB](https://veb.ru/), [ICSS](https://icss.ru) and [forecast.ru](http://www.forecast.ru/). 
 
 ### Publications
@@ -41,6 +41,12 @@ I maintain two python packages for economic statistics:
 
 - Chaos engineering manual
 
+## Other links
+
+- My bio in Russian [here](https://mgimo.ru/people/pogrebnyak)
+
 ### Hits to this page
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fepogrebnyak%2Fepogrebnyak)
+
+

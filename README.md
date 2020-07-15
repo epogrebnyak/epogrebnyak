@@ -4,16 +4,25 @@
 [![MAIL Badge](https://img.shields.io/badge/-e.pogrebnyak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.pogrebnyak@gmail.com)](mailto:e.pogrebnyak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-eeppoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeppoo/)](https://www.linkedin.com/in/eeppoo/) 
 
-- Work:
-  - current: [Finec MGIMO](https://finec.mgimo.ru) where we teach economics, management and business IT. 
-  - previous: [VEB](https://veb.ru/) development bank, strategy and economic research roles. 
+[Dean](https://mgimo.ru/people/pogrebnyak) at [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
+  
+### Previous work
 
-- PhD (Econ): modelling competitive electricity market. 
+  - Strategy (2008-2014) and economic research (2014-2018) at [VEB](https://veb.ru/) - national development bank
+  - Head of economic policy research at [ICSS](https://icss.ru)
+  - Analyst at [forecast.ru](http://www.forecast.ru/)
 
-- Publications: economics of automotive industry, industrial and competition policies, exchange rates, 
+### Education
+
+- PhD (Econ): [Policy parameters and regulatory controls for Russian competitive electricity market](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/) 
+- BSc/MSc @[MGU Economics Department](https://www.econ.msu.ru/)
+
+### Publications
+
+Power markets, economics of automotive industry, industrial and competition policies, exchange rates, 
 sustainable development goals.
 
-- Also published: dictionary of Russian business slang.
+Also published: dictionary of Russian business slang.
 
 ### Economic data and Python codebooks
 
@@ -24,8 +33,8 @@ I maintain two python packages for economic statistics:
 
 ### Functional programming
 
-- 7 lessons on Haskell and a Haskell reading list
-- FP jargon (my Russian translation)
+- [7 lessons on Haskell and a Haskell reading list](https://github.com/epogrebnyak/haskell-intro)
+- FP jargon (Russian translation)
 
 ### Econometrics and dat management learning resources
 

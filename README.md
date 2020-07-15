@@ -6,21 +6,15 @@
 
 [Dean](https://mgimo.ru/people/pogrebnyak) at [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
   
-### Previous work
-
-  - Strategy (2008-2014) and economic research (2014-2018) at [VEB](https://veb.ru/) - national development bank
-  - Head of economic policy research at [ICSS](https://icss.ru)
-  - Analyst at [forecast.ru](http://www.forecast.ru/)
-
-### Education
-
-- PhD (Econ): [Policy parameters and regulatory controls for Russian competitive electricity market](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/) 
-- BSc/MSc @[MGU Economics Department](https://www.econ.msu.ru/)
+Previous work: strategy (2008-2014) and economic research (2014-2018) at [VEB](https://veb.ru/) national development bank,
+economic policy research at [ICSS](https://icss.ru), analyst at [forecast.ru](http://www.forecast.ru/).
 
 ### Publications
 
 Power markets, economics of automotive industry, industrial and competition policies, exchange rates, 
 sustainable development goals.
+
+Thesis (PhD Econ): [Policy parameters and regulatory controls for Russian competitive electricity market](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/) 
 
 Also published: dictionary of Russian business slang.
 

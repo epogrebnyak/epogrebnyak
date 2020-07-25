@@ -20,6 +20,11 @@ Thesis (PhD Econ): [Policy parameters and regulatory controls for Russian compet
 
 Also published: dictionary of Russian business slang.
 
+Links:
+
+- [elibrary.ru author profile](https://elibrary.ru/author_profile.asp?authorid=557200)
+- [Google scholar](https://scholar.google.com/citations?user=HN162ykAAAAJ)
+
 ### Economic data and Python codebooks
 
 I maintain two python packages for economic statistics:

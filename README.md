@@ -6,8 +6,8 @@
 
 ### Work
 
- - Current: [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
- - Previous: [VEB](https://veb.ru/), [ICSS](https://icss.ru) and [forecast.ru](http://www.forecast.ru/). 
+ - [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
+ - Previously [VEB](https://veb.ru/), [ICSS](https://icss.ru) and [forecast.ru](http://www.forecast.ru/). 
 
 ### Publications
 

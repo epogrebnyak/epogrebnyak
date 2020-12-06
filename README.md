@@ -51,7 +51,7 @@ I maintain two python packages for economic statistics:
 
 ## Other links
 
-- My bio in Russian [here](https://mgimo.ru/people/pogrebnyak)
+- My bio in Russian [here](https://mgimo.ru/people/pogrebnyak/)
 
 ### Hits to this page
 

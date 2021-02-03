@@ -17,7 +17,7 @@ I maintain two python packages for economic statistics:
 - [boo](https://github.com/ru-corporate/boo/) - annual fina reports of Russian companies 
 - [weo](https://github.com/epogrebnyak/weo-reader) - IMF WEO releases as pandas dataframe
 
-See more [here](https://github.com/epogrebnyak/datasets/)
+See more [here](https://github.com/epogrebnyak/datasets/).
 
 ### Publications
 

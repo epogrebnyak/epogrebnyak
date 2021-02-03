@@ -12,12 +12,24 @@
 
 ### Datasets
 
-I maintain two python packages for economic statistics:
+I maintain several open datasets and codebooks:
 
-- [boo](https://github.com/ru-corporate/boo/) - annual fina reports of Russian companies 
-- [weo](https://github.com/epogrebnyak/weo-reader) - IMF WEO releases as pandas dataframe
+Name        | Content                                              | Years      | Github
+:----------:|:-----------------------------------------------------|:----------:|:-----------------------------------------------------------------:
+[boo](#boo) | Russian firms annual financial statements            | 2012-2018  | [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
+[weo](#weo) | World Economic Outlook releases as pandas dataframes | 2007+      | [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
+[ssg](#ssg) | Static site generators popularity on Github          | 2021       | [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 
-See more [here](https://github.com/epogrebnyak/datasets/).
+[boo]: https://github.com/ru-corporate/boo
+[weo]: https://github.com/weo-reader
+[ssg]: https://github.com/epogrebnyak/ssg-dataset
+
+Read more [here](https://github.com/epogrebnyak/datasets/)
+
+### Coding blog
+
+- <https://epogrebnyak.github.io/icode/>
+- <https://epogrebnyak.gitlab.io/observer/> (mirror)
 
 ### Publications
 

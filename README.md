@@ -2,15 +2,16 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PogrebnyakE?label=Follow&style=social)](https://twitter.com/PogrebnyakE)
 [![MAIL Badge](https://img.shields.io/badge/-e.pogrebnyak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.pogrebnyak@gmail.com)](mailto:e.pogrebnyak@gmail.com)
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-eeppoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eeppoo/)](https://www.linkedin.com/in/eeppoo/) -->
-
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3914-9665" href="https://orcid.org/0000-0003-3914-9665" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3914-9665</a></div>
 
 ### Work
 
  - [Finec MGIMO](https://finec.mgimo.ru), where we teach economics, management and business IT. 
  - Previously [VEB](https://veb.ru/), [ICSS](https://icss.ru) and [forecast.ru](http://www.forecast.ru/). 
+
+### Publications
+ 
+- [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3914-9665)
+- [Google Scholar](https://scholar.google.com/citations?user=HN162ykAAAAJ&hl=en)
 
 ### Datasets
 

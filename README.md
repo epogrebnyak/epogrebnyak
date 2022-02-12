@@ -29,16 +29,6 @@ Name        | Content                                              | Years      
 
 Read more [here](https://github.com/epogrebnyak/datasets/)
 
-### Tweet collections
-
-- retweets
-- topics
-
-### Coding blog
-
-- <https://epogrebnyak.github.io/icode/>
-- <https://epogrebnyak.gitlab.io/observer/> (mirror)
-
 ### Publications
 
 - [elibrary.ru author profile](https://elibrary.ru/author_profile.asp?authorid=557200)
@@ -50,22 +40,6 @@ sustainable development goals.
 Thesis: [Policy parameters and regulatory controls for Russian competitive electricity market](https://ecfor.ru/publication/mehanizmy-regulirovaniya-elektroenergetiki-rossii/) 
 
 Also published: dictionary of Russian business slang.
-
-### Functional programming
-
-- [7 lessons on Haskell and a Haskell reading list](https://github.com/epogrebnyak/haskell-intro)
-- FP jargon (Russian translation)
-
-### Econometrics and data management
-
-- trics.me
-- what-I-missed
-- superhero
-- learn
-
-### Reliability engineering
-
-- Chaos engineering manual
 
 ## Other links
 

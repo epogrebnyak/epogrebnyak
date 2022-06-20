@@ -19,9 +19,9 @@ I maintain several open datasets and codebooks:
 
 Name        | Content                                              | Years      | Github
 :----------:|:-----------------------------------------------------|:----------:|:-----------------------------------------------------------------:
-[boo](#boo) | Russian firms annual financial statements            | 2012-2018  | [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
-[weo](#weo) | World Economic Outlook releases as pandas dataframes | 2007+      | [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
-[ssg](#ssg) | Static site generators popularity on Github          | 2021       | [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
+[boo][boo] | Russian firms annual financial statements            | 2012-2018  | [![](https://badgen.net/badge/icon/github?icon=github&label)][boo]
+[weo][weo] | World Economic Outlook releases as pandas dataframes | 2007+      | [![](https://badgen.net/badge/icon/github?icon=github&label)][weo]
+[ssg][ssg] | Static site generators popularity on Github          | 2021       | [![](https://badgen.net/badge/icon/github?icon=github&label)][ssg]
 
 [boo]: https://github.com/ru-corporate/boo
 [weo]: https://github.com/weo-reader

@@ -12,8 +12,8 @@
 [twitter-badge]: https://img.shields.io/twitter/follow/PogrebnyakE?label=Follow&style=social
 [twitter-link]: https://twitter.com/PogrebnyakE
 
-[![Telegram][tg-badge][tg-link]
-[![VKontakte][vk-badge][vk-link]
+[![Telegram][tg-badge]][tg-link]
+[![VKontakte][vk-badge]][vk-link]
 [![Gmail][gmail-badge]][gmail-link]
 [![Twitter Follow][twitter-badge]][twitter-link]
 

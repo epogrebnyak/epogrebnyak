@@ -1,8 +1,21 @@
 ### Hi I'm Evgeniy Pogrebnyak
 
-[![Telegram badge](https://img.shields.io/badge/Telegram-blue?style=flatsquare&logo=telegram&logoColor=white)](https://t.me/epoepo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PogrebnyakE?label=Follow&style=social)](https://twitter.com/PogrebnyakE)
-[![MAIL Badge](https://img.shields.io/badge/-e.pogrebnyak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.pogrebnyak@gmail.com)](mailto:e.pogrebnyak@gmail.com)
+[tg-link]: https://t.me/epoepo
+[tg-badge]: https://img.shields.io/badge/Telegram-blue?style=flatsquare&logo=telegram&logoColor=white
+
+[vk-link]: https://vk.com/e_pogrebnyak
+[vk-badge]: https://img.shields.io/badge/VK-blue?style=flatsquare&logo=VK&logoColor=white
+
+[gmail-badge]: https://img.shields.io/badge/-e.pogrebnyak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.pogrebnyak@gmail.com
+[gmail-link]: mailto:e.pogrebnyak@gmail.com
+
+[twitter-badge]: https://img.shields.io/twitter/follow/PogrebnyakE?label=Follow&style=social
+[twitter-link]: https://twitter.com/PogrebnyakE
+
+[![Telegram][tg-badge][tg-link]
+[![VKontakte][vk-badge][vk-link]
+[![Gmail][gmail-badge]][gmail-link]
+[![Twitter Follow][twitter-badge]][twitter-link]
 
 ### Work
 

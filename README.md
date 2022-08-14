@@ -1,5 +1,6 @@
 ### Hi I'm Evgeniy Pogrebnyak
 
+[![Telegram badge](https://img.shields.io/badge/Telegram-blue?style=flatsquare&logo=telegram&logoColor=white)](https://t.me/epoepo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PogrebnyakE?label=Follow&style=social)](https://twitter.com/PogrebnyakE)
 [![MAIL Badge](https://img.shields.io/badge/-e.pogrebnyak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.pogrebnyak@gmail.com)](mailto:e.pogrebnyak@gmail.com)
 

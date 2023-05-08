@@ -58,7 +58,3 @@ Also published: dictionary of Russian business slang.
 ## Other links
 
 - My bio in Russian [here](https://mgimo.ru/people/pogrebnyak/)
-
-### Hits to this page
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fepogrebnyak%2Fepogrebnyak)

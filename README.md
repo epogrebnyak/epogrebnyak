@@ -23,9 +23,11 @@
  - Previously [VEB](https://veb.ru/), [ICSS](https://icss.ru) and [forecast.ru](http://www.forecast.ru/). 
 
 ### Publications
- 
-- [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3914-9665)
+
 - [Google Scholar](https://scholar.google.com/citations?user=HN162ykAAAAJ&hl=en)
+- [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-3914-9665)
+- elibrary [ИНП РАН](https://elibrary.ru/author_items.asp?authorid=557200), [МГИМО](https://elibrary.ru/author_items.asp?authorid=1135651)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56808346600)
 
 ### Datasets
 
